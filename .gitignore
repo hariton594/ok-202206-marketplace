@@ -5,9 +5,9 @@ build/
 !**/src/test/**/build/
 
 ### IntelliJ IDEA ###
-.idea/
 *.iml
 out/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
